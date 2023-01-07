@@ -75,6 +75,13 @@ box-shadow: 12px 12px 10px #888888;
 .med{
     font-size: 30px;
 }
+.med a{
+    text-decoration: none;
+}
+.med a{
+    font-size: 30px;
+}
+
 article p{
     margin-left: 2%;
 }
